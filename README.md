@@ -43,16 +43,6 @@
 또한, 지역별로 소멸 위기 산업을 추출해 산업 다양화를 위한 지역별 맞춤 컨설팅을 제공한다.
 
 <div align="center">
-  
-![image](https://github.com/jayjinnie/Industry-Diversity-in-Gyeonggi-Dashboard/assets/65335952/8d556420-576c-42e0-884a-d0e76c2ce394)
-![image](https://github.com/jayjinnie/Industry-Diversity-in-Gyeonggi-Dashboard/assets/65335952/be3cf427-cee7-418c-8ee9-7814a8a7ccac)
-![image](https://github.com/jayjinnie/Industry-Diversity-in-Gyeonggi-Dashboard/assets/65335952/e1da04df-2882-4d18-8a11-e9ea2d2c62a8)
-</div>
-
-<br>
-
-## 대시보드 시연 영상
-<div align="center">
 
 https://github.com/jayjinnie/Industry-Diversity-in-Gyeonggi-Dashboard/assets/65335952/10c52107-b8ff-46c3-9896-7b54be22bb7c
 </div>
