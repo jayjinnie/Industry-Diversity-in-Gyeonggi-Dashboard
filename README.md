@@ -57,6 +57,8 @@
 https://github.com/jayjinnie/Industry-Diversity-in-Gyeonggi-Dashboard/assets/65335952/10c52107-b8ff-46c3-9896-7b54be22bb7c
 </div>
 
+<br>
+
 ## 프로젝트 성과
 **경기도 경제 과학 진흥원 표창, 대상 수상🎉**
 <div align="center">
